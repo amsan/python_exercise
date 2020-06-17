@@ -17,5 +17,3 @@ def pagination(current_page, total_pages, boundaries, around):
 
     print(page_range_with_dots)
     return page_range_with_dots
-
-pagination(4, 5, 1, 0)
